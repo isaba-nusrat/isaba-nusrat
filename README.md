@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm @isaba-nusrat
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaba-nusrat&label=Profile%20views&color=0e75b6&style=flat" alt="isaba-nusrat" /> </p>
+
 - 💻 I’m interested in Web/Software Developer career.
 - 🌱 I’m currently learning a lot of things related to web/software development.
 - 💛 I’m looking to collaborate on React applications.
